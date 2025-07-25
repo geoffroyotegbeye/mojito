@@ -1,5 +1,6 @@
-import { useGSAP } from '@gsap/react'
 import React from 'react'
+import gsap from 'gsap'
+import { useGSAP } from '@gsap/react'
 import { navLinks } from '../../constants/index'
 
 const Navbar = () => {
